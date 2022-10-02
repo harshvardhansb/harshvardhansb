@@ -3,53 +3,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<!-- image -->
-<p>
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&#&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BGGGGGGGGGGPPGGGGGGGGBBB##&@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#PGGBBBGGGGBB##BGGGBBGGGGGPPPPG#&@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BP5PPBGGGBB###&###B#####BBBBBBGGGPPPGB&@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#G5P55PPPBBBBB#######B##########B##BBGGGPPGB&@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BP55PGGGGGGGBBBBBBB######&&&&###########BBBBBBBB&@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G5PGP5PB########&&&&#&&&&&&&&&&######&######&####BGB@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G5PBBGGB#&&&&##&&##&&&&&&&&&&&&&###&&&#######&####&#BB&@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BPGGBB####&&&#B##&#B######&&&&&######BB#####B###&#####BB@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PBBB##&&&&&&&####&&##BGGGGGGGGBB#BBGGGPPGBB###########&#&@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BG#######&####BBBBBB###BBGGGGGGGGGBBBBBBBGGPGB####B######&@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BB#####&&##BBBBGGPGGGGBGGGGGPGGGGGGGGGGGGGGGPPGB#&#######&@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GBB###&&##BBGGGGPPPPPPPGPPPGGBGPPPG###BGGGPPPPPPGB#&&#####@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B#BBB###BBBBGP555555PPPPPGGGGP5555G##BGGGPPP5PGGGBB######@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P55PPGGGGGGPYYY555555555PPPPPPPPPPGBBBGGPP5YY5GBBBGGB#GB@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5PPPPPPPPPP5555555555YYYYYY555555PPPGGP555YYYJYPGB##GBB@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B5555PPPP55P555PP555YYYYYYYYYYJJYYYYYYYYJYYYYYYJJJ5BB#&@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GY5PGGGG555PPPPPPPP555555555YYYJJJJJJJJYYYYYYYYYJJJP&@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#Y5GGPGP55PGGPPPPPPPPPPPPPP555YYYYJJYYYY555YYYYYYYJP@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GYYY5PPPPGGGGGGGGPPPPPPPPPPP555YYYYYYY5P5555PPP55Y5&@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B55PPPPPGGGGGGGGGGGGGGGGGPPPPP5555YYY5GGGB#BBBPP5Y5&@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P5PPPPGGGGGGGGGGGGGGGGGGGGGGPP555YY5PGGGGGGPP55YJ#@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B55PGPPGGGGGGGGGGGGGGGGGGGGGGPP55555PGGGGGGG5YYYY&@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B555PPPGGGGGGGGGGGBBBGGGGGGPPPPPPPPGGGGGGGGG5YYYG@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B5555PPGGGGGGGGGGGGBBBGGGGGGGGGGGBBBBBBBBGGGP55G@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GY5555PGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGPGGGPP&@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GYY555PGGGGGGGGGGGGBGGGGGGGGGGGGGGPPPGGGGPPGGP#@@@@@@@@@@
-@@@&##BBBGGBB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@GY555PPPPGGGGGGGGGGBBGGGGGGGGGGPPPPGGBBGGPPPPG@@@@@@@@@@@
-#PYJ??????????JJY5555PPGGB#&&&&&&&&&@@@@@@@GY555PPPPPGGGGGGGGGBBBGGGGGGGGPPPPPPGGGPPPPPP&@@@@@@@@@@@
-???JJ??????JJ??????????????JJYYYJYJYY5PGGGB5Y555PPPPGGGGGGGGGGBBBBBBBBBGGGGPPPGGGGP555P&@@@@@@@@@@@@
-?J?JJJ??????J????????????JJJJJJJ?JJJJJ??J55YY55PPPPPGGGGGGGGGGBBBBBBBBBBBBBBGGGBBGPP5P&@@@@@@@@@@@@@
-?????J???????????????????JJJJJJJJJJJYJJJYPYY555PPPPPGGGGGGGGBBBBBBBBBBBBB#BBBBBBBBBGG&@@@@@@@@@@@@@@
-?????JJ??????J????????????JJJJJJJJJJJJJJY5YY555PPPPPPGGGGGGGGBBBBBBBBBBBB#####BBBGPYY555PPPGB##&@@@@
-J?????JJ?????J????????????JJJJJJJJYJJJJJY5Y555PPPPPPPPGGGGGGBGGBBBBBBBGGGGP55YYYJJJJ???????????JJYPB
-JJ?????J?????????????????JJJJJJJJJYJJJJJJ55555PPPPPPPPPPGGGGGGGGGGGGGGGP5JJJJ????JJ?????????????????
-JJJ????JJ?????J???????JJJJJJJJJJJJJJJJJJJY555PPPPPPPPPPPPPGGGGGGGGGGGPP5JJJJJ?JJJJ??????????????????
-?JJJJ???J?????J??????JJJJJJJJJJJJJJYYJJJJJPPPPPPPPPPPPPPGGGGGGGGGGGPPP55JJJJJJJJ????????????????????
-??JJJ???JJ???JJ????J?JJJJJJJJJJJJJJJYJJJYJYGGGGGGGPPPPGGGGGGGGGGGGPPPPPYJJJJJJJJ????????????????????
-???JJJJ?JJ??JJJJJJJJJJJJJJJJJJJJYYJJYYJJYYJ5BBGGGGGGGGGGGGGGGGGGGGGPPPPYJJJJJJJJ???J?JJ?????????????
-???JJJJ??JJ?JJJJJJJJJJJJJJJJJJJJJYJJJYYJYYYJYGBBBBBGGGGGGGGGGGGGGGGGBGYYYJJJJJJJ??J???JJJJJJ???J????
-????JJJJ?JJ??JJJJJJJJJJJJJJJJJJJJJJJJYYYYYYYJYPBBBBBBBBBBBGGGGGGGGB#GYYYYJJJJJJJJJJ??JJ??JJJJJJJ????
-</p>
-<!-- image end -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhansb&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhansb" /> </p>
 
 - 🌱 I’m currently learning **React**
