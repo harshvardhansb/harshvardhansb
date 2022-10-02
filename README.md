@@ -4,11 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!-- image -->
-<p> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<p>
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&#&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BGGGGGGGGGGPPGGGGGGGGBBB##&@@@@@@@@@@@@@@@@@@
@@ -51,7 +47,7 @@ JJJ????JJ?????J???????JJJJJJJJJJJJJJJJJJJY555PPPPPPPPPPPPPGGGGGGGGGGGPP5JJJJJ?JJ
 ???JJJJ?JJ??JJJJJJJJJJJJJJJJJJJJYYJJYYJJYYJ5BBGGGGGGGGGGGGGGGGGGGGGPPPPYJJJJJJJJ???J?JJ?????????????
 ???JJJJ??JJ?JJJJJJJJJJJJJJJJJJJJJYJJJYYJYYYJYGBBBBBGGGGGGGGGGGGGGGGGBGYYYJJJJJJJ??J???JJJJJJ???J????
 ????JJJJ?JJ??JJJJJJJJJJJJJJJJJJJJJJJJYYYYYYYJYPBBBBBBBBBBBGGGGGGGGB#GYYYYJJJJJJJJJJ??JJ??JJJJJJJ????
-  <p>
+</p>
 <!-- image end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhansb&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhansb" /> </p>
