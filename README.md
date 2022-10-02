@@ -1,3 +1,5 @@
+<img src="[img_girl.jpg](https://www.digitalsolutionservices.com/img/services/web%20development.gif)" alt="Girl in a jacket" width="1920" height="590">
+
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
