@@ -1,4 +1,4 @@
-![vaghela](https://user-images.githubusercontent.com/91899491/145231167-d08083bb-21e6-4667-96ce-182f6eb19c6a.png)
+![vaghela](https://media-exp1.licdn.com/dms/image/C4D16AQFO1Hv1O8Bzww/profile-displaybackgroundimage-shrink_350_1400/0/1648969390900?e=1670457600&v=beta&t=1BAr6u0KTHtlVsN3nOev3k0Ar7WTozEjz5NM0Obf36w)
 
 
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
