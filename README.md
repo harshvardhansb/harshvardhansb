@@ -1,4 +1,5 @@
-<img src="[https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif](https://www.digitalsolutionservices.com/img/services/web%20development.gif)">
+![vaghela](https://user-images.githubusercontent.com/91899491/145231167-d08083bb-21e6-4667-96ce-182f6eb19c6a.png)
+
 
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
