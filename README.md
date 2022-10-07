@@ -9,7 +9,7 @@ Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/harshvardhansb/harshvardhansb/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/harshvardhansb/harshvardhansb/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhansb&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhansb" /> </p>
 
