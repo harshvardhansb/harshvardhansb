@@ -4,6 +4,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com/in/harshvardhansb/)),   I am  pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my 3rd-Year of B.Tech.I'm a passionate self-taught  web developer ,I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/harshvardhansb/harshvardhansb/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhansb&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhansb" /> </p>
 
 - 🌱 I’m currently learning **React**
