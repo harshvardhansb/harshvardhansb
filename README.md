@@ -1,7 +1,7 @@
 ![vaghela](https://media-exp1.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1670457600&v=beta&t=ckD9ZZRhaml5Aa8Tpr5k2eU1S3a_aUDq_9xALKEFyLI)
 
 
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com/in/harshvardhansb/)),   I am  pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my 3rd-Year of B.Tech.I'm a passionate self-taught  web developer ,I take great care in the experience, architecture, and code quality of the things I build.
