@@ -1,4 +1,4 @@
-![vaghela](https://media-exp1.licdn.com/dms/image/C4D16AQFO1Hv1O8Bzww/profile-displaybackgroundimage-shrink_350_1400/0/1648969390900?e=1670457600&v=beta&t=1BAr6u0KTHtlVsN3nOev3k0Ar7WTozEjz5NM0Obf36w)
+![vaghela](https://media-exp1.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1670457600&v=beta&t=ckD9ZZRhaml5Aa8Tpr5k2eU1S3a_aUDq_9xALKEFyLI)
 
 
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
