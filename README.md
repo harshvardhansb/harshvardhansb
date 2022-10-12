@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="left">
 <a href="https://linkedin.com/in/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhansb" height="30" width="40" /></a>
 <a href="https://instagram.com/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhansb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshvardhansb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshvardhansb" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshvardhansb" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harsh0vardhan0/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh0vardhan0/profile" height="30" width="40" /></a>
 </p>
