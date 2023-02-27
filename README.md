@@ -1,12 +1,24 @@
+<p align="center">
+  <img src = "https://media.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1683158400&v=beta&t=4GY8Wefrs0THwSosDCAOX1H6Ut1ZlrKn8MYbCY1VYQQ" width = 100%>
+</p>
+
 ![](https://media-exp1.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1675900800&v=beta&t=4CH5Cl4fj5kFMRi81aphwZlu9iTtDY2PIA8Z-nOOSLI)
 
 
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com/in/harshvardhansb/)),   I am  pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my 3rd-Year of B.Tech.I'm a passionate self-taught  web developer ,I take great care in the experience, architecture, and code quality of the things I build.
+<p align="center">
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 160px>
+</p>
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<h3 align="centre">A passionate frontend developer from India</h3>
+
+
+
+
+Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com/in/harshvardhansb/)),   I am  pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my pre-final Year of my B.Tech degree.I'm a passionate self-taught  web developer ,I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/harshvardhansb/harshvardhansb/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -19,7 +31,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 📫 How to reach me **https://www.linkedin.com/in/harshvardhansb/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhansb" height="30" width="40" /></a>
 <a href="https://instagram.com/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhansb" height="30" width="40" /></a>
@@ -34,3 +46,5 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhansb&show_icons=true&locale=en&layout=compact" alt="harshvardhansb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvardhansb&show_icons=true&locale=en" alt="harshvardhansb" /></p> -->
+
+
