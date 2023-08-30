@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/harshvardhansb/harshvardhansb/blob/main/cover.gif?raw=true" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
+<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/lofi-gif-6.gif" width = 100%>
+  <img src = "https://github.com/harshvardhansb/harshvardhansb/blob/main/cover.gif?raw=true" width = 100%>
 </p>
 
 ![](https://media-exp1.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1675900800&v=beta&t=4CH5Cl4fj5kFMRi81aphwZlu9iTtDY2PIA8Z-nOOSLI)
