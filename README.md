@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
+<h1 align="center">Hi <img src="https://github.com/harshvardhansb/harshvardhansb/blob/main/cover.gif?raw=true" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
 <p align="center">
   <img src = "https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/lofi-gif-6.gif" width = 100%>
 </p>
