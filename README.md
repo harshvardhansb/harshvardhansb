@@ -1,14 +1,15 @@
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
 <p align="center">
-  <img src = "https://media.licdn.com/dms/image/D5616AQERwUSrVUGRBQ/profile-displaybackgroundimage-shrink_350_1400/0/1678172035763?e=1697068800&v=beta&t=D1WWicw_iGsY9ibo1Ul-5s39ioQMSwH_h1FO5r5zy4o" width = 100%>
+  <img src = "https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/lofi-gif-6.gif" width = 100%>
 </p>
 
 ![](https://media-exp1.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1675900800&v=beta&t=4CH5Cl4fj5kFMRi81aphwZlu9iTtDY2PIA8Z-nOOSLI)
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Harsh Vardhan Singh</h1>
+
 
 <p align="center">
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 160px>
+<!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 160px> -->
 </p>
 
 <h3 align="centre">A web-developer from India</h3>
@@ -21,7 +22,7 @@ Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com
 I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/harshvardhansb/harshvardhansb/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/215911.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhansb&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhansb" /> </p>
 
