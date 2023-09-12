@@ -46,10 +46,9 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
-![harshvardhansb's Stats](https://github-readme-stats.vercel.app/api?username=harshvardhansb&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 ![](https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/zzz-sleeping.gif)
-
+![harshvardhansb's Stats](https://github-readme-stats.vercel.app/api?username=harshvardhansb&theme=nord&show_icons=true&hide_border=true&count_private=true)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhansb&show_icons=true&locale=en&layout=compact" alt="harshvardhansb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvardhansb&show_icons=true&locale=en" alt="harshvardhansb" /></p> -->
