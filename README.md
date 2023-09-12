@@ -47,7 +47,6 @@ alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" targ
 
 
 ![harshvardhansb's Stats](https://github-readme-stats.vercel.app/api?username=harshvardhansb&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![harshvardhansb's Streak](https://streak-stats.demolab.com/?user=harshvardhansb&theme=buefy-dark&border_radius=6&date_format=j%20M%5B%20Y%5D)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhansb&show_icons=true&locale=en&layout=compact" alt="harshvardhansb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvardhansb&show_icons=true&locale=en" alt="harshvardhansb" /></p> -->
