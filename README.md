@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/harshvardhansb1/" target="_blank"> Harsh Vardhan Singh </a> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+
+
 <p align="center">
   <img src = "https://github.com/harshvardhansb/harshvardhansb/blob/main/cover.gif?raw=true" width = 100%>
 </p>
