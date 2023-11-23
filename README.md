@@ -19,7 +19,7 @@
 
 
 
-Hi, i'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com/in/harshvardhansb/)),   I am  pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my pre-final Year of my B.Tech degree.I'm a passionate self-taught  web developer ,I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Harsh Vardhan Singh]([https://abhishknads.me/](https://www.linkedin.com/in/harshvardhansb/)),   I am  pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my final Year of my B.Tech degree.I'm a passionate self-taught  web developer ,I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
