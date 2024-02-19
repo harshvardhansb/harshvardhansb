@@ -1,8 +1,6 @@
 
 
-```diff
-@@  Hola amigo , kaise ho, theek ho? 🧑‍💻  @@
-```
+
 
 <p align="center">
   <img src = "https://github.com/harshvardhansb/harshvardhansb/blob/main/cover.gif?raw=true" width = 100%>
