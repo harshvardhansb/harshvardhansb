@@ -25,7 +25,7 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhansb&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhansb" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://harshvardhansb.github.io/portfolio.github.io/](https://harshvardhansb.github.io/portfolio.github.io/)
 
