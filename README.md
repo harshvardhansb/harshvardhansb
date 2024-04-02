@@ -2,10 +2,6 @@
 
 
 
-<p align="center">
-  <img src = "https://github.com/harshvardhansb/harshvardhansb/blob/main/cover.gif?raw=true" width = 100%>
-</p>
-
 ![](https://media-exp1.licdn.com/dms/image/D4D16AQH4E_ueB9HsjQ/profile-displaybackgroundimage-shrink_350_1400/0/1665130655270?e=1675900800&v=beta&t=4CH5Cl4fj5kFMRi81aphwZlu9iTtDY2PIA8Z-nOOSLI)
 
 
