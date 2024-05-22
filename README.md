@@ -27,9 +27,9 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://harshvardhansb.github.io/portfolio.github.io/](https://harshvardhansb.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [harshvardhansb/portfolio/](https://harshvardhansb.github.io/portfolio/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/harshvardhansb/**
+- 📫 How to reach me **https://www.linkedin.com/in/harshvardhansb1/**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
