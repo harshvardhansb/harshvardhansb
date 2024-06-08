@@ -37,12 +37,15 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 - 📫 Reach me at **https://www.linkedin.com/in/harshvardhansb1/**
 
 <h3 align="left">Connect with me:</h3> 
-<p align="left">
+<p >
+
+	
+<a href="https://auth.geeksforgeeks.org/user/harsh0vardhan0/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh0vardhan0/profile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshvardhansb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhansb" height="30" width="40" /></a>
+	<a href="https://www.leetcode.com/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshvardhansb" height="30" width="40" /></a>
 <a href="https://instagram.com/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhansb" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/harshvardhansb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshvardhansb" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harsh0vardhan0/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh0vardhan0/profile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
