@@ -27,7 +27,7 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 
 - 🌱 I’m currently learning **TypeScript**
 
-- My recent projects:
+## - My recent projects:
 - 🌄 [Vfarer](https://github.com/harshvardhansb/Vfarer-1)  ( Social Media Web-Application For Trekkers )
 - ⛑️[V-Seeker](https://github.com/harshvardhansb/V-Seeker) ( Recruiter-Volunteer Collaboration Platform )
 - 👩🏻‍💻[SDE-SHEET](https://github.com/harshvardhansb/sdesheet) ( Personal Web-Based Progress Tracker )
