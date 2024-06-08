@@ -27,9 +27,14 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [harshvardhansb/portfolio/](https://harshvardhansb.github.io/portfolio/)
+- My recent projects:
+- 🌄 [Vfarer](https://github.com/harshvardhansb/Vfarer-1)  ( Social Media Web-Application For Trekkers )
+- ⛑️[V-Seeker](https://github.com/harshvardhansb/V-Seeker) ( Recruiter-Volunteer Collaboration Platform )
+- 👩🏻‍💻[SDE-SHEET](https://github.com/harshvardhansb/sdesheet) ( Personal Web-Based Progress Tracker )
+- 🔍[Object Detection](https://github.com/harshvardhansb/ObjectDetection) ( Object detection Application )
+- 💬[ChatRoom](https://github.com/harshvardhansb/chatRoom) ( React Based Chat-Application website )
 
-- 📫 How to reach me **https://www.linkedin.com/in/harshvardhansb1/**
+- 📫 Reach me at **https://www.linkedin.com/in/harshvardhansb1/**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
