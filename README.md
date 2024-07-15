@@ -105,7 +105,7 @@ I am also an open-source enthusiast and maintainer.I learned a lot from the open
 	</table>
 </div>
 
-![](https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/zzz-sleeping.gif)
+![](https://raw.githubusercontent.com/harshvardhansb/harshvardhansb/main/zzz-sleeping.gif)$~~~~~~~~~$
 ![harshvardhansb's Stats](https://github-readme-stats.vercel.app/api?username=harshvardhansb&theme=nord&show_icons=true&hide_border=true&count_private=true)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhansb&show_icons=true&locale=en&layout=compact" alt="harshvardhansb" /></p>
 
